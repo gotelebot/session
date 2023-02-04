@@ -1,4 +1,4 @@
-module github.com/gotelebot/basic
+module github.com/gotelebot/session
 
 go 1.19
 

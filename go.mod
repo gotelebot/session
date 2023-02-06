@@ -1,6 +1,6 @@
 module github.com/gotelebot/session
 
-go 1.19
+go 1.20
 
 require github.com/3JoB/telebot v0.0.0-20230206093018-d4bc9140380f
 

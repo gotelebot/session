@@ -2,8 +2,12 @@ github.com/3JoB/telebot v0.0.0-20230204090104-6e432d9cfc3c h1:XNWrzvT9kKHyWlzH5n
 github.com/3JoB/telebot v0.0.0-20230204090104-6e432d9cfc3c/go.mod h1:/5lZ+FTI/7qV+94/5F/UKgZaqEjidzsqFXq303xCO0Q=
 github.com/3JoB/telebot v0.0.0-20230206093018-d4bc9140380f h1:7G/ari6DQTh+6/bI+UkCKeDgroVn5QpvjV71P2Zh/7Q=
 github.com/3JoB/telebot v0.0.0-20230206093018-d4bc9140380f/go.mod h1:/5lZ+FTI/7qV+94/5F/UKgZaqEjidzsqFXq303xCO0Q=
+github.com/3JoB/telebot v0.0.0-20230207092422-5ffe85c64830 h1:z9MlIWYOqlNq5euc9IC9PVOs1d42k1w6KnJ9rZ9lczo=
+github.com/3JoB/telebot v0.0.0-20230207092422-5ffe85c64830/go.mod h1:vVYQWX+dp+AJx4vWfDjSS1T/BpNE2mJWtBi6VPhcIo4=
 github.com/3JoB/ulib v0.0.6 h1:7iuXUI9+meY1avfftHWpdomPpgjSF5BAvZnIql8zYkI=
 github.com/3JoB/ulib v0.0.6/go.mod h1:QQ+YGDbxMFoMuOuh85GNA4yFFT9sQFV50dBI0JiZ+LQ=
+github.com/3JoB/ulib v0.0.10 h1:iq/wRZADEWKJ+UX/GrQNh7lB9DjOXJmljX2BHRk4AKo=
+github.com/3JoB/ulib v0.0.10/go.mod h1:VVeyrE22K6Ju/037QvVv15k890Pkx4VqpB3tNci1k9c=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/goccy/go-json v0.10.0 h1:mXKd9Qw4NuzShiRlOXKews24ufknHO7gx30lsDyokKA=
 github.com/goccy/go-json v0.10.0/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=

@@ -1,13 +1,7 @@
-github.com/3JoB/telebot v0.0.0-20230204090104-6e432d9cfc3c h1:XNWrzvT9kKHyWlzH5nR4j6t4/TNXy6FRitdBUAVda+Q=
-github.com/3JoB/telebot v0.0.0-20230204090104-6e432d9cfc3c/go.mod h1:/5lZ+FTI/7qV+94/5F/UKgZaqEjidzsqFXq303xCO0Q=
-github.com/3JoB/telebot v0.0.0-20230206093018-d4bc9140380f h1:7G/ari6DQTh+6/bI+UkCKeDgroVn5QpvjV71P2Zh/7Q=
-github.com/3JoB/telebot v0.0.0-20230206093018-d4bc9140380f/go.mod h1:/5lZ+FTI/7qV+94/5F/UKgZaqEjidzsqFXq303xCO0Q=
-github.com/3JoB/telebot v0.0.0-20230207092422-5ffe85c64830 h1:z9MlIWYOqlNq5euc9IC9PVOs1d42k1w6KnJ9rZ9lczo=
-github.com/3JoB/telebot v0.0.0-20230207092422-5ffe85c64830/go.mod h1:vVYQWX+dp+AJx4vWfDjSS1T/BpNE2mJWtBi6VPhcIo4=
-github.com/3JoB/ulib v0.0.6 h1:7iuXUI9+meY1avfftHWpdomPpgjSF5BAvZnIql8zYkI=
-github.com/3JoB/ulib v0.0.6/go.mod h1:QQ+YGDbxMFoMuOuh85GNA4yFFT9sQFV50dBI0JiZ+LQ=
-github.com/3JoB/ulib v0.0.10 h1:iq/wRZADEWKJ+UX/GrQNh7lB9DjOXJmljX2BHRk4AKo=
-github.com/3JoB/ulib v0.0.10/go.mod h1:VVeyrE22K6Ju/037QvVv15k890Pkx4VqpB3tNci1k9c=
+github.com/3JoB/telebot v0.1.1 h1:e9yro+h3woyTfRoylqdxSRE5m5wbykxvGGO3w+D/3lU=
+github.com/3JoB/telebot v0.1.1/go.mod h1:gHe3+5Oy7GD680bZTH/s1nGdFwBrvF/0dYHdBZDvSyQ=
+github.com/3JoB/unsafeConvert v0.0.1 h1:2YouOKliR6oAz7TceZYa069RcGtZ+FGdMJetIjaA1wg=
+github.com/3JoB/unsafeConvert v0.0.1/go.mod h1:iSvh1grSkQOJuPRGhfBJbG++/Z/0oHN11E4bePIbfd0=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/goccy/go-json v0.10.0 h1:mXKd9Qw4NuzShiRlOXKews24ufknHO7gx30lsDyokKA=
 github.com/goccy/go-json v0.10.0/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=
@@ -17,6 +11,6 @@ github.com/grafana/regexp v0.0.0-20221122212121-6b5c0a4cb7fd h1:PpuIBO5P3e9hpqBD
 github.com/grafana/regexp v0.0.0-20221122212121-6b5c0a4cb7fd/go.mod h1:M5qHK+eWfAv8VR/265dIuEpL3fNfeC21tXXp9itM24A=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
-golang.org/x/text v0.6.0 h1:3XmdazWV+ubf7QgHSTWeykHOci5oeekaGJBLkrkaw4k=
-golang.org/x/text v0.6.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
+golang.org/x/text v0.7.0 h1:4BRB4x83lYWy72KwLD/qYDuTu7q9PjSagHvijDw7cLo=
+golang.org/x/text v0.7.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
